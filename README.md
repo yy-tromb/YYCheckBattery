@@ -1,5 +1,6 @@
 # YYCheckBattery  
-Check Battery left and notify you ( if battery &lt; 70 or battery > 90 )  
+Check Battery left and notify you every minite ( if battery &lt; 70 or battery > 90 )  
+Thought if plugged
   
-## Use plyer or win11toast  
+## Use win11toast or plyer  
 If on Windows, I use win11toast, on others, I use plyer.
