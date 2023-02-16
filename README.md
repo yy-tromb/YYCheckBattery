@@ -10,3 +10,6 @@ If on Windows, I use win11toast, on others, I use plyer.
 ## Require
 You may have to `pip install schedule plyer psutil`  
 if you are Windows 10 or 11, also `pip install win11toast`  
+
+## Future  
+I'm thinking of limits of toast or change frequency in case
