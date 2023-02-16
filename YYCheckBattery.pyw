@@ -43,7 +43,7 @@ def toast_win11():
     message = ""
     if battery.percent < 70 and battery.power_plugged == False:
         message = "Plug Now!!"
-    elif not( battery.percent > 90 and battery.power_plugged == True):
+    elif battery.percent > 90 and battery.power_plugged == True:
         message = "Remove the Plug!!"
     else:
         return 0
